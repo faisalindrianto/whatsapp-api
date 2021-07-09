@@ -15,6 +15,7 @@
   "author": "Faisal Indrianto",
   "license": "MIT",
   "dependencies": {
+    "@pedroslopez/moduleraid": "github:faisalindrianto/moduleRaid",
     "axios": "^0.20.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",
